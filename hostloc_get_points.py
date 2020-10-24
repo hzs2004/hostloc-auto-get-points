@@ -87,4 +87,4 @@ if __name__ == "__main__":
                 print("获取积分异常：" + str(e))
             continue
 
-        print("程序执行完毕，获取积分结束")
+        print("程序执行完毕，获取积分结束") #
